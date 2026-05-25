@@ -30,3 +30,24 @@ automatically.
 
 Use this template if you want a fuss-free way to share Markdown documentation as
 a live website.
+
+You can also use Unicode admonitions rendered below to enhance the documentation
+experience for the reader.
+
+> ℹ️ Note
+>
+> Highlights information that users should take
+> into account, even when skimming.
+
+> 💡 Tip
+>
+> Optional information to help a user be more successful.
+
+> ‼️ Important
+>
+> Crucial information necessary for users to succeed.
+
+> ⚠️ Warning
+>
+> Critical content demanding immediate user attention
+> due to potential risks.
