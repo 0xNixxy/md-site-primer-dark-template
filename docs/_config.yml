@@ -12,7 +12,7 @@ description: "Built with Primer Dark for Jekyll"
 # --------------
 
 # Use Primer Dark theme tagged to commit hash
-remote_theme: 0xNixxy/primer-dark@8d67130
+remote_theme: 0xNixxy/primer-dark@355a492
 
 # Plugins required for Primer Dark
 plugins:
